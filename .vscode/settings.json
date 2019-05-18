@@ -1,0 +1,9 @@
+{
+    "workbench.colorCustomizations":{
+        "[Monokai]": {
+            "editor.background": "#111111",
+            "terminal.background": "#1E1E1E",
+            
+        }
+    }
+}
